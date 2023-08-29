@@ -1,0 +1,13 @@
+Notes
+
+SECTION 1:
+
+Lesson 1
+    - Welcome to the course
+    - Intro stuff not super relavant information
+    - Basically talks about what react is
+    - What are components? Use a component in first section
+    - Write your own component
+
+Lesson 2:
+    - 
