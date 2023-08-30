@@ -4,4 +4,26 @@ SECTION 1:
 
 Lesson 1
     - Welcome to the course
-    -Intro stuff not super relavant information
+    - Intro stuff not super relavant information
+    - Basically talks about what react is
+    - What are components? Use a component in first section
+    - Write your own component
+
+Lesson 3:
+    - What is it?
+        - Front end framework/library from Facebook
+    - What does it do?
+        - Main point is for components so you can build larger apps easier
+        - Small components combined to make whole app
+Lesson 4:
+    - Is react a framework or library?
+        - Frameworks are usually larger than library
+        - Frameworks are more like blueprints
+        - Less freedom with Frameworks because they are "opinionated"
+        - Frameworks: Angular, Ember, Vue
+    - Angluar is more "out of the box" whereas react is light weight
+    - React does 1 main thing - create components to make things easier whereas Angular has a lot more built in
+    - React alone is more a library but most people don't use react on its own
+    - Usually react is combined with things like react router, webpack, etc.
+    - Next.js is a framework built around react
+
