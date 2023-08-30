@@ -26,4 +26,13 @@ Lesson 4:
     - React alone is more a library but most people don't use react on its own
     - Usually react is combined with things like react router, webpack, etc.
     - Next.js is a framework built around react
+Lesson 5:
+    - components are building blocks of react
+    - How many parts to break app into?
+        - Usually UI and logic
+        - example: https://codesandbox.io/s/62x458v5pn
+    - Seems like you can really break things up into super small pieces
+    - Learning how to know what to break up and what not to break up may be a learning piece
+    
+
 
