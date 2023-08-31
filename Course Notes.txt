@@ -33,6 +33,6 @@ Lesson 5:
         - example: https://codesandbox.io/s/62x458v5pn
     - Seems like you can really break things up into super small pieces
     - Learning how to know what to break up and what not to break up may be a learning piece
-    
-
-
+Lesson 6:
+    - Modules are reusable but not always exactly the same
+    - Combining components to create a larger app like the color picker app
